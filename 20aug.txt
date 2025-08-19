@@ -1,1 +1,4 @@
-"Starting over again with Github" 
+Starting over again with GitHub
+
+1st update : removed quotes from the first line & created a test file to check the usage of double quotes// in cmd no need to write echo "xyz abc" >test.txt , in Linux/git bash we need to write it.
+
